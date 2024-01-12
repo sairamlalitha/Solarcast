@@ -12,16 +12,12 @@ Features
 The code uses the celerite library for Gaussian Process regression to model the underlying trends in the time-series data. In addition to the GP model, a sine model is incorporated to capture periodic signals in the data. The sine model is optimised alongside the GP model.
 
 Requirements
-
-Python 3.x
-Required libraries: numpy, matplotlib, scipy, celerite, PyAstronomy
+  - Python 3.x
+  - Required libraries: numpy, matplotlib, scipy, celerite, PyAstronomy
 
 Usage
-
-Clone the repository to your local machine.
-bash
-Copy code
-git clone https://github.com/sairamlalitha/Solarcast.git
+  - Clone the repository to your local machine.
+  - git clone https://github.com/sairamlalitha/Solarcast.git
 
 Steps involved:
   - Place your time-series data files in the 'data' folder.
