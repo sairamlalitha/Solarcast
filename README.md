@@ -21,7 +21,7 @@ Usage
 Clone the repository to your local machine.
 bash
 Copy code
-git clone https://github.com/your-username/gaussian-process-analysis.git
+git clone https://github.com/sairamlalitha/Solarcast.git
 
 Steps involved:
   - Place your time-series data files in the 'data' folder.
