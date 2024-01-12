@@ -28,7 +28,7 @@ Steps involved:
 ## Reference
 If you use this code in your research or find it helpful, please consider citing:
 
-[Lalitha Sairam & Amaury Triaud, "The need for a public forecast of stellar activity to optimize exoplanet radial velocity detections and transmission spectroscopy", Monthly Notices of the Royal Astronomical Society, Volume 514, Issue 2, April 2021, Pages 2259–2267, https://academic.oup.com/mnras/article/514/2/2259/6595315](https://academic.oup.com/mnras/article/514/2/2259/6595315)
+[Lalitha Sairam & Amaury Triaud, https://academic.oup.com/mnras/article/514/2/2259/6595315]("The need for a public forecast of stellar activity to optimize exoplanet radial velocity detections and transmission spectroscopy")
 
 Feel free to contribute to the project by forking and creating pull requests.
 
